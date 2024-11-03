@@ -90,3 +90,8 @@ User Authentication: Add password-based authentication in addition to RSA encryp
 Persistent Storage: Integrate a database for storing auction items and user data instead of in-memory storage.
 
 This project was created as part of a university module on distributed systems and demonstrates secure communication using Java RMI and encryption.
+
+Thanks for reading! If you'd like to contact me, feel free to drop me an email:
+```bash
+ibby200@icloud.com
+```
